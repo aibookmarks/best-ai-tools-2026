@@ -115,7 +115,18 @@ This repository aims to:
 
 - Curate high-quality AI tools  
 - Organize them by real-world use cases  
-- Help users quickly discover the right tools  
+- Help users quickly discover the right tools
+
+# Why This Repository?
+- Curated by industry experts: No spam, only high-quality, tested tools
+- Updated regularly: Track the latest AI trends and innovations in 2026
+- One-stop access: Visit [aibookmarks.net](https://aibookmarks.net) for full directory
+
+# Target Audience
+- Developers building AI-powered applications
+- Content creators and marketers
+- Professionals optimizing office workflows
+- Anyone exploring AI tools for productivity
 
 ---
 
@@ -125,7 +136,7 @@ Want to add a new AI tool?
 
 1. Fork this repository  
 2. Add your tool under the appropriate category  
-3. Submit a Pull Request  
+3. Submit a Pull Request
 
 ---
 

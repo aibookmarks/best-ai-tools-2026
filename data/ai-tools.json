@@ -1,0 +1,38 @@
+{
+  "categories": [
+    {
+      "name": "Chatbots",
+      "tools": [
+        {"name": "ChatGPT", "url": "https://chatgate.ai"},
+        {"name": "Gemini", "url": "https://gemini.google.com"},
+        {"name": "Claude", "url": "https://claude.ai"},
+        {"name": "Grok", "url": "https://grok.com"},
+        {"name": "Perplexity", "url": "https://perplexity.ai"}
+      ]
+    },
+    {
+      "name": "Writing",
+      "tools": [
+        {"name": "Jasper", "url": "https://www.jasper.ai"},
+        {"name": "Copy.ai", "url": "https://www.copy.ai"},
+        {"name": "Writesonic", "url": "https://writesonic.com"}
+      ]
+    },
+    {
+      "name": "Video",
+      "tools": [
+        {"name": "Sora", "url": "https://sora.chatgpt.com"},
+        {"name": "RunwayML", "url": "https://runwayml.com"},
+        {"name": "Pika", "url": "https://pika.art"}
+      ]
+    },
+    {
+      "name": "Coding",
+      "tools": [
+        {"name": "GitHub Copilot", "url": "https://github.com/copilot"},
+        {"name": "Cursor", "url": "https://cursor.so"},
+        {"name": "Replit AI", "url": "https://replit.com"}
+      ]
+    }
+  ]
+}

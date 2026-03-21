@@ -137,6 +137,7 @@ Want to add a new AI tool?
 1. Fork this repository  
 2. Add your tool under the appropriate category  
 3. Submit a Pull Request
+4. We welcome contributions! See CONTRIBUTING.md for details.
 
 ---
 

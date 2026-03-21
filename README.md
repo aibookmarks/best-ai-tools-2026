@@ -130,7 +130,7 @@ This repository aims to:
 
 ---
 
-# 📌 Contribute
+# 📌 CONTRIBUTING
 
 Want to add a new AI tool?
 

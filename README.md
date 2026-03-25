@@ -48,9 +48,10 @@ https://aibookmarks.net
 - Codeium  
 
 ## 🎬 AI Video Tools
-- Runway  
-- Pika  
-- Synthesia  
+- Runway
+- Pika
+- Synthesia
+- PVID - Free AI video generator with Kling 3.0, Sora 2, Veo 3.1 (100 free credits)  
 
 ## 🎨 AI Image Tools
 - Midjourney  

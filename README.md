@@ -32,6 +32,7 @@ https://aibookmarks.net
 | Midjourney  | Image          | Creative visuals             |
 | Runway      | Video          | Video generation/editing     |
 | Copilot     | Coding         | Developer productivity       |
+| [Nick Launches](https://nicklaunches.com/) | Launch Platform |  |
 
 ---
 

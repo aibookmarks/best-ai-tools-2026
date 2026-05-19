@@ -19,6 +19,12 @@
       ]
     },
     {
+      "name": "Image & Design",
+      "tools": [
+        {"name": "Aurcue", "url": "https://www.aurcue.com"}
+      ]
+    },
+    {
       "name": "Video",
       "tools": [
         {"name": "Sora", "url": "https://sora.chatgpt.com"},

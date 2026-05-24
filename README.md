@@ -56,6 +56,7 @@ https://aibookmarks.net
 - Midjourney  
 - DALL·E  
 - Leonardo AI  
+- [LandscapioAI](https://www.landscapioai.com/) – AI landscape design generator for outdoor space concepts.  
 
 ## 🤖 AI Agents
 - AutoGPT  

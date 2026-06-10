@@ -38,6 +38,7 @@ A curated and structured collection of AI tools categorized by use case.
 - Pika
 - Veed AI
 - Lumen5
+- ImagineClip
 
 ---
 

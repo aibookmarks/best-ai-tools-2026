@@ -41,6 +41,7 @@ https://aibookmarks.net
 - ChatGPT  
 - Claude  
 - Jasper  
+- [CreatorSkills](https://creatorskills.co) – Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth  
 
 ## 💻 AI Coding Tools
 - GitHub Copilot  

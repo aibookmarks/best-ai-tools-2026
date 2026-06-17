@@ -31,7 +31,8 @@
       "tools": [
         {"name": "GitHub Copilot", "url": "https://github.com/copilot"},
         {"name": "Cursor", "url": "https://cursor.so"},
-        {"name": "Replit AI", "url": "https://replit.com"}
+        {"name": "Replit AI", "url": "https://replit.com"},
+        {"name": "Roblox GUI Maker", "url": "https://robloxguimaker.dev/"}
       ]
     }
   ]

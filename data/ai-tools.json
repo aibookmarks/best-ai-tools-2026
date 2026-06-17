@@ -33,6 +33,12 @@
         {"name": "Cursor", "url": "https://cursor.so"},
         {"name": "Replit AI", "url": "https://replit.com"}
       ]
+    },
+    {
+      "name": "Finance",
+      "tools": [
+        {"name": "SwiftAlerts", "url": "https://swiftalerts.trade"}
+      ]
     }
   ]
 }

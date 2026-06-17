@@ -81,3 +81,6 @@ A curated and structured collection of AI tools categorized by use case.
 - Semrush
 - Surfer SEO
 - AdCreative.ai
+
+## 💰 Finance
+- SwiftAlerts

@@ -32,6 +32,7 @@ https://aibookmarks.net
 | Midjourney  | Image          | Creative visuals             |
 | Runway      | Video          | Video generation/editing     |
 | Copilot     | Coding         | Developer productivity       |
+| SwiftAlerts | Finance        | Market alerts and trade intelligence |
 
 ---
 
@@ -66,6 +67,9 @@ https://aibookmarks.net
 - Notion AI  
 - Perplexity  
 - Taskade  
+
+## 💰 AI Finance Tools
+- SwiftAlerts - AI-powered market alerts for traders and investors.
 
 ---
 

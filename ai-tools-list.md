@@ -29,6 +29,7 @@ A curated and structured collection of AI tools categorized by use case.
 - Stability AI
 - Canva
 - Remove.bg
+- ClearCrowds
 
 ---
 

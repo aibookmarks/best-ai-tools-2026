@@ -27,6 +27,12 @@
       ]
     },
     {
+      "name": "Image",
+      "tools": [
+        {"name": "ClearCrowds", "url": "https://www.clearcrowds.com"}
+      ]
+    },
+    {
       "name": "Coding",
       "tools": [
         {"name": "GitHub Copilot", "url": "https://github.com/copilot"},

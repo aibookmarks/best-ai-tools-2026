@@ -59,6 +59,7 @@ A curated and structured list of the best AI tools categorized by use case.
 - Hailuo AI
 - Kling AI
 - Google Veo
+- ImagineClip
 
 ---
 

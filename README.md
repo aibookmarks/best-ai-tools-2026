@@ -51,6 +51,7 @@ https://aibookmarks.net
 - Runway  
 - Pika  
 - Synthesia  
+- ImagineClip
 
 ## 🎨 AI Image Tools
 - Midjourney  

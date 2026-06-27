@@ -23,7 +23,8 @@
       "tools": [
         {"name": "Sora", "url": "https://sora.chatgpt.com"},
         {"name": "RunwayML", "url": "https://runwayml.com"},
-        {"name": "Pika", "url": "https://pika.art"}
+        {"name": "Pika", "url": "https://pika.art"},
+        {"name": "ImagineClip", "url": "https://imagineclip.com"}
       ]
     },
     {

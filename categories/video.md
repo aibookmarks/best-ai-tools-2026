@@ -10,6 +10,7 @@ AI video tools enable text-to-video generation and editing.
 - Pika – video generation
 - Veed AI – online video editor
 - Lumen5 – video creation platform
+- ImagineClip – AI avatar clips and stylized social videos
 
 ## Use Cases
 - YouTube content

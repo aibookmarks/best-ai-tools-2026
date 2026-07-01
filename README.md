@@ -66,8 +66,8 @@ https://aibookmarks.net
 - Notion AI  
 - Perplexity  
 - Taskade  
-- [Tudo](https://blynkai.app/tudo/)  
-- [Telo](https://blynkai.app/telo/)  
+- [Tudo](https://blynkai.app/tudo/) - AI task manager for iPhone.  
+- [Telo](https://blynkai.app/telo/) - AI wellness companion for iPhone.  
 
 ---
 

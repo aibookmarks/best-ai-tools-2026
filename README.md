@@ -66,6 +66,8 @@ https://aibookmarks.net
 - Notion AI  
 - Perplexity  
 - Taskade  
+- [Tudo](https://blynkai.app/tudo/)  
+- [Telo](https://blynkai.app/telo/)  
 
 ---
 

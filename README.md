@@ -56,6 +56,7 @@ https://aibookmarks.net
 - Midjourney  
 - DALL·E  
 - Leonardo AI  
+- [GPT Image 2](https://gptimage2.asia/)  
 
 ## 🤖 AI Agents
 - AutoGPT  

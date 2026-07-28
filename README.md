@@ -56,6 +56,7 @@ https://aibookmarks.net
 - Midjourney  
 - DALL·E  
 - Leonardo AI  
+- [ImageChanger](https://aiimagechanger.app/) – Browser-based AI photo editing across 38 focused transformation workflows
 
 ## 🤖 AI Agents
 - AutoGPT  

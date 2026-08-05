@@ -66,6 +66,7 @@ https://aibookmarks.net
 - Notion AI  
 - Perplexity  
 - Taskade  
+- Fortuneteller.Today  
 
 ---
 

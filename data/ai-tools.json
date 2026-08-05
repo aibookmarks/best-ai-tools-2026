@@ -33,6 +33,12 @@
         {"name": "Cursor", "url": "https://cursor.so"},
         {"name": "Replit AI", "url": "https://replit.com"}
       ]
+    },
+    {
+      "name": "Productivity",
+      "tools": [
+        {"name": "Fortuneteller.Today", "url": "https://www.fortuneteller.today"}
+      ]
     }
   ]
 }

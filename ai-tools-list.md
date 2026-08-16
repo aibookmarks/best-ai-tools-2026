@@ -73,6 +73,7 @@ A curated and structured collection of AI tools categorized by use case.
 - ClickUp AI
 - Otter.ai
 - Fireflies.ai
+- IdeaHunter
 
 ---
 

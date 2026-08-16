@@ -51,6 +51,7 @@ https://aibookmarks.net
 - Runway  
 - Pika  
 - Synthesia  
+- [videos.social](https://videos.social/?utm_source=aibookmarks-best-ai-tools-2026&utm_medium=directory&utm_campaign=listing-wave-d) – editable faceless video from blogs, PDFs, and prompts  
 
 ## 🎨 AI Image Tools
 - Midjourney  

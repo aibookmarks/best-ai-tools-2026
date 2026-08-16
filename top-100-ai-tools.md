@@ -55,6 +55,7 @@ A curated and structured list of the best AI tools categorized by use case.
 - Synthesia
 - Veed AI
 - Lumen5
+- [videos.social](https://videos.social/?utm_source=aibookmarks-best-ai-tools-2026&utm_medium=directory&utm_campaign=listing-wave-d)
 - InVideo AI
 - Hailuo AI
 - Kling AI

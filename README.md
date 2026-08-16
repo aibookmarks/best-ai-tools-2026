@@ -61,6 +61,7 @@ https://aibookmarks.net
 - AutoGPT  
 - AgentGPT  
 - SuperAGI  
+- [Agent QA](https://github.com/vostride/agent-qa) – Natural-language web and mobile QA with persistent test memory and an MCP server.
 
 ## 📊 AI Productivity Tools
 - Notion AI  

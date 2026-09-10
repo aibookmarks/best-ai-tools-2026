@@ -41,6 +41,7 @@ https://aibookmarks.net
 - ChatGPT  
 - Claude  
 - Jasper  
+- [ResumeAI](https://withresumeai.com/) — free ATS checker + AI resume builder  
 
 ## 💻 AI Coding Tools
 - GitHub Copilot  

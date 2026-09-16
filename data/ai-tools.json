@@ -33,6 +33,12 @@
         {"name": "Cursor", "url": "https://cursor.so"},
         {"name": "Replit AI", "url": "https://replit.com"}
       ]
+    },
+    {
+      "name": "Directories",
+      "tools": [
+        {"name": "AI Tools Radar", "url": "https://aitoolsradar.com"}
+      ]
     }
   ]
 }

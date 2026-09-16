@@ -9,6 +9,7 @@
 - Coding & Development
 - AI Agents
 - Productivity
+- AI Directories
 - Business & Marketing
 
 ---

@@ -10,6 +10,7 @@ AI video tools enable text-to-video generation and editing.
 - Pika – video generation
 - Veed AI – online video editor
 - Lumen5 – video creation platform
+- [AI Fruit Video](https://aifruitvideo.com) – talking-fruit video generator
 
 ## Use Cases
 - YouTube content

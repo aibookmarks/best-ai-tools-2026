@@ -58,6 +58,7 @@ https://aibookmarks.net
 - Leonardo AI  
 
 ## 🤖 AI Agents
+- [Orkas](https://orkas.ai/?source=dir_aibookmarks) — Open-source, local-first desktop AI workforce coordinated by a Commander through one chat. It brings research, coding, data analysis and documents into a local desktop workspace.  
 - AutoGPT  
 - AgentGPT  
 - SuperAGI  

@@ -51,6 +51,7 @@ https://aibookmarks.net
 - Runway  
 - Pika  
 - Synthesia  
+- [ReelAI](https://tryreelai.com/) – Create short videos from images using preset effects (paid).
 
 ## 🎨 AI Image Tools
 - Midjourney  
